@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.davor.spring</groupId>
 	<artifactId>pet-clinic-davor</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>pet-clinic-davor</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -43,7 +43,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/larajorge11/spring-davor-pet-clinic.git</developerConnection>
-		<tag>pet-clinic-davor-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 </project>
