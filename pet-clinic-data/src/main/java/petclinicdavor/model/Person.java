@@ -1,4 +1,4 @@
-package com.davor.spring.petclinicdavor.model;
+package petclinicdavor.model;
 
 public class Person {
     private String firstName;

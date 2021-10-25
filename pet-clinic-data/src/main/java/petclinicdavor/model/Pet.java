@@ -1,4 +1,4 @@
-package com.davor.spring.petclinicdavor.model;
+package petclinicdavor.model;
 
 import java.time.LocalDate;
 

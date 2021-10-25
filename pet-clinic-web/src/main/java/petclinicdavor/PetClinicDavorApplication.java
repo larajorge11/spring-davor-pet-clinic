@@ -1,4 +1,4 @@
-package com.davor.spring.petclinicdavor;
+package petclinicdavor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
